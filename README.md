@@ -1,5 +1,4 @@
-👋 Hi, I’m Hooyoung
-
-👍 Good to see you.
+👋 Hello.
+👍 Thank you.
 
 https://who0joe.github.io
